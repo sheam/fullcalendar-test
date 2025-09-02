@@ -36,6 +36,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ### Post FullCalendar.io Size
 
-- asset file size: 388.06k (+200k)
+- asset file size: 381.83k (+193.77k)
 - dist size: 397k (+192k)
-- node_modules size: 147M
+- node_modules size: 142M
+- modules: 349
