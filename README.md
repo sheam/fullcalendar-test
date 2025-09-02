@@ -23,3 +23,19 @@ This template provides a minimal setup to get React working in Vite with HMR and
 1. `npm install`
 2. `npm run dev`
 3. Open `http://localhost:5173` in your browser.
+
+## Bundle size notes:
+
+- run _size_ script: `npm run size`.
+
+### Pre Calendar Install
+
+- asset file size: 188.06k
+- dist size: 205k
+- node_modules size:
+
+### Post FullCalendar.io Size
+
+- asset file size: 388.06k (+200k)
+- dist size: 397k (+192k)
+- node_modules size: 147M

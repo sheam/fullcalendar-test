@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "pre-commit:lint": "npx eslint --fix",
     "pre-commit:format": "npx prettier --write",
-    "prepare": "husky"
+    "prepare": "husky",
+    "size": "npm run build && du -s -h -c dist"
   },
   "dependencies": {
     "@fullcalendar/core": "^6.1.19",
