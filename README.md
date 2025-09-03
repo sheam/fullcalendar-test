@@ -14,7 +14,8 @@
 
 - asset file size: 188.06k
 - dist size: 205k
-- node_modules size:
+- node_modules size: 107
+- modules: 32
 
 ### Post FullCalendar.io Size
 
@@ -22,3 +23,18 @@
 - dist size: 397k (+192k)
 - node_modules size: 142M
 - modules: 349
+
+### Post Event-Calendar (VKURKO) Size
+
+- asset file size: 260.91k (+72k)
+- dist size: 289k (84+k)
+- node_modules size: 154M
+- modules: 447
+-
+
+### @ilamy/calendar-test
+
+- asset file size: 867.85k (+700k)
+- dist size: 905k (700+k)
+- node_modules size: 335M
+- modules: 2972
